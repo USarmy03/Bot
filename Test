@@ -1,0 +1,6 @@
+echo "# Bot" >> README.md
+git init
+git add README.md
+git commit -m "@everyone Just ask a question and someone (might) answer"
+git remote add origin https://github.com/USarmy03/Bot.git
+git push -u origin master
